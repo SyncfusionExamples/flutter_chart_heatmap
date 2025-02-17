@@ -1,4 +1,3 @@
-# flutter_chart_heatmap
 # How to render a heat map chart by using the Flutter StackedBar100 Chart
 
 This repository contains a sample that demonstrates how to render a heat map chart in Syncfusion Charts package.
